@@ -1,4 +1,4 @@
-# ios_study_project_dice
+# iOS Study Project -> Dice (掷骰子)
 
 通过这个项目学到
 
