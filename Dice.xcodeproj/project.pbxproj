@@ -13,7 +13,7 @@
 		BF0DECAB224CC94B00E49630 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF0DECA9224CC94B00E49630 /* LaunchScreen.storyboard */; };
 		BF0DECB5224CCC3900E49630 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BF0DECB4224CCC3900E49630 /* README.md */; };
 		BF0DECB7224CCC5B00E49630 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = BF0DECB6224CCC5B00E49630 /* .gitignore */; };
-		BF0DECB9224CD18F00E49630 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF0DECB8224CD18F00E49630 /* Assets.xcassets */; };
+		BFCA2AE122518EC80034A33B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFCA2AE022518EC80034A33B /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		BF0DECAC224CC94B00E49630 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF0DECB4224CCC3900E49630 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BF0DECB6224CCC5B00E49630 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		BF0DECB8224CD18F00E49630 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
+		BFCA2AE022518EC80034A33B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 		BF0DEC9F224CC94A00E49630 /* Dice */ = {
 			isa = PBXGroup;
 			children = (
-				BF0DECB8224CD18F00E49630 /* Assets.xcassets */,
+				BFCA2AE022518EC80034A33B /* Assets.xcassets */,
 				BF0DECA0224CC94A00E49630 /* AppDelegate.swift */,
 				BF0DECA2224CC94A00E49630 /* ViewController.swift */,
 				BF0DECA4224CC94A00E49630 /* Main.storyboard */,
@@ -132,7 +132,7 @@
 				BF0DECAB224CC94B00E49630 /* LaunchScreen.storyboard in Resources */,
 				BF0DECB5224CCC3900E49630 /* README.md in Resources */,
 				BF0DECA6224CC94A00E49630 /* Main.storyboard in Resources */,
-				BF0DECB9224CD18F00E49630 /* Assets.xcassets in Resources */,
+				BFCA2AE122518EC80034A33B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
