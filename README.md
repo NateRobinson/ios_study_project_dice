@@ -17,3 +17,5 @@
     updateDiceImages()
     }
    ```
+   
+6. 使用类似 HTML 布局中的划分区域的方式，将页面分为上中下：Top container，Middle container, Bottom container 的方式，各个 Container 逐个设置约束，完成最终的自动化布局，这样便可以适配各种 size 的屏幕。（不推荐在代码中代码实现自动布局适配，那样的效率非常低，也不便于维护，在 Android 开发过程中，就很少在代码中写死尺寸，除非是一些单页面多状态的布局情况）
